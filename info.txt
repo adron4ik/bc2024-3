@@ -1,0 +1,4 @@
+Основні показники діяльності банків України, дата - 1 жовтня 2023р, період - квартал - 6v
+
+
+https://bank.gov.ua/NBUStatService/v1/statdirectory/basindbank?date=01100101&period=q&json
